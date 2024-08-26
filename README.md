@@ -1,3 +1,3 @@
 # :mage_man: DevOps Quest
 
-> *A quest from exploration to production* 
+> *A Quest from Exploration to Production* 
