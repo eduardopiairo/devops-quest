@@ -8,7 +8,7 @@ spec:
     server: https://kubernetes.default.svc
   project: default
   source:
-    path: bootstrap/glasskube
+    path: gitops/bootstrap/glasskube
     repoURL: https://github.com/eduardopiairo/devops-quest # TODO put your own repo url here
     targetRevision: HEAD
   syncPolicy:
